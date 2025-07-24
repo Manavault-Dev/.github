@@ -1,6 +1,6 @@
-# Manavolt
+# Manavault
 
-**Manavolt** is a technology-driven organization focused on building meaningful, AI-powered digital products.
+**Manavault** is a technology-driven organization focused on building meaningful, AI-powered digital products.
 
 We build tools that empower people through thoughtfully designed user experiences and powerful software engineering.
 
@@ -27,7 +27,7 @@ We aim to build products that are:
 
 ##  Team
 
-Manavolt is currently being built by passionate indie hackers, engineers, and creatives. Want to collaborate?
+Manavault is currently being built by passionate indie hackers, engineers, and creatives. Want to collaborate?
 
 Reach out → [tilek.dzenisev@gmail.com](mailto:tilek.dzenisev@gmail.com)
 
