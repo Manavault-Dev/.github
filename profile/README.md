@@ -8,7 +8,7 @@ We build tools that empower people through thoughtfully designed user experience
 
 ##  Projects
 
-- [**Nuroo App**](https://github.com/Manavolt-Dev/nuroo-app) - an AI-powered task and growth tracker for children with special needs.
+- [**Nuroo App**](https://github.com/Manavault-Dev/nuroo-app) - an AI-powered task and growth tracker for children with special needs.
 - Upcoming projects TBA...
 
 ---
@@ -36,5 +36,5 @@ Reach out → [tilek.dzenisev@gmail.com](mailto:tilek.dzenisev@gmail.com)
 ##  Get Involved
 
 We welcome contributors, designers, and dreamers.  
-Check out [CONTRIBUTING.md](https://github.com/Manavolt-Dev/nuroo-app/blob/development/CONTRIBUTING.md) for more.
+Check out [CONTRIBUTING.md](https://github.com/Manavault-Dev/nuroo-app/blob/development/CONTRIBUTING.md) for more.
 
